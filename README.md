@@ -125,7 +125,7 @@ The model testing and evaluation are detailed in the `test.py` file. This includ
 ![Confusion Matrix](images/conf_matrix.png)
 
 ### Sample Predictions
-![Sample Predictions](PotatoEarlyBlight2.jpg)
+![Sample Predictions](PotatoEarlyBlight2.JPG)
 
 ## Data Augmentation
 Data augmentation is crucial for improving the model's robustness and generalization ability. The augmented dataset is stored in the `augmented_dataset/` directory.
