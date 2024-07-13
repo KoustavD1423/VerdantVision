@@ -3,7 +3,7 @@ Sure! Here is the updated `README.md` file with an additional section comparing 
 ---
 
 <p align="center">
-  <img src="M:\Projects\machineLearning\Plant_Disease_Prediction\home_page.jpg" alt="VerdantVision">
+  <img src="home_page.jpeg" alt="VerdantVision">
 </p>
 
 # VerdantVision
