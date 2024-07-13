@@ -122,7 +122,7 @@ The performance of the EfficientNetv2B0 model during training and validation is 
 The model testing and evaluation are detailed in the `test.py` file. This includes loading the trained model, running it on a test dataset, and visualizing the results.
 
 ### Confusion Matrix
-![Confusion Matrix](conf_matrix.png)
+![Confusion Matrix](images/conf_matrix.png)
 
 ### Sample Predictions
 ![Sample Predictions](PotatoEarlyBlight2.jpg)
