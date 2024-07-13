@@ -110,7 +110,7 @@ The model training process is outlined in the `plant_disease_prediction_efficien
 The performance of the EfficientNetv2B0 model during training and validation is as follows:
 
 ### Training, Validation Accuracy and Loss
-![Training Accuracy and Loss](images\accuracy_and_loss.jpg)
+![Training Accuracy and Loss](images/accuracy_and_loss.jpg)
 
 ### Summary of Results
 - **Training Accuracy:** 98.83%
@@ -148,7 +148,7 @@ To leverage Google Colab for training, follow these steps:
 The performance of the EfficientNetv2B0 model during training and validation is as follows:
 
 ### Training, Validation Accuracy and Loss
-![Training Accuracy and Loss](Cnn_acc_val.jpg)
+![Training Accuracy and Loss](Cnn_acc_val.png)
 
 ### Summary of Results
 - **Training Accuracy:** 98.83%
@@ -160,7 +160,7 @@ The performance of the EfficientNetv2B0 model during training and validation is 
 The model testing and evaluation are detailed in the `Test_plant_disease.ipnyb` file. This includes loading the trained model, running it on a test dataset, and visualizing the results.
 
 ### Confusion Matrix
-![Confusion Matrix](Cnn_conf_matrix.jpg)
+![Confusion Matrix](Cnn_conf_matrix.png)
 
 ## Model Comparison
 To evaluate the performance of EfficientNetB2, we compared it with a custom Convolutional Neural Network (CNN) model.
@@ -191,10 +191,10 @@ The custom CNN model consists of the following layers:
 We trained both models on the same dataset and compared their performance in terms of accuracy and loss.
 
 ### EfficientNetV2b0 Training, Validation Accuracy and Loss
-![Training Accuracy and Loss](images\accuracy_and_loss.jpg)
+![Training Accuracy and Loss](images/accuracy_and_loss.png)
 
 ### CNN Model Training, Validation Accuracy and Loss
-![Training Accuracy and Loss](Cnn_acc_val.jpg)
+![Training Accuracy and Loss](Cnn_acc_val.png)
 
 ### Summary of Results
 - **EfficientNetV2B0 Training Accuracy:** 98.83%
