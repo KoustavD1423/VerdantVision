@@ -191,7 +191,7 @@ The custom CNN model consists of the following layers:
 We trained both models on the same dataset and compared their performance in terms of accuracy and loss.
 
 ### EfficientNetV2b0 Training, Validation Accuracy and Loss
-![Training Accuracy and Loss](images/accuracy_and_loss.png)
+![Training Accuracy and Loss](images/accuracy_and_loss.jpg)
 
 ### CNN Model Training, Validation Accuracy and Loss
 ![Training Accuracy and Loss](Cnn_acc_val.png)
